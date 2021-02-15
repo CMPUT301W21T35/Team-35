@@ -1,6 +1,6 @@
 package com.example.team35;
 
-public class Square extends Shape {
+public class Triangle extends Shape {
 
     public Square(int x, int y) {
         super(x, y);
